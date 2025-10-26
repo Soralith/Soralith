@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Hey there, I'm Sora
+# Hey there, I'm Sora. 👋
 
 ### `💻 Code Architect` `🧠 Tech Explorer` `🏔️ Arch Linux Enthusiast`
 
