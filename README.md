@@ -93,8 +93,7 @@ When I'm not coding, you'll find me strategizing in turn-based games, exploring 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soralith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1793D1&text_color=C9D1D9&border_radius=10" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soralith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
 
 </div>
@@ -154,6 +153,6 @@ setup:
 
 ### ✨ *"Keep learning, keep building, and keep having fun while doing it."* ✨
 
-<sub>Crafted with 💙 by Sora | Powered by curiosity and coffee ☕</sub>
+<sub>I use Arch btw 🐧</sub>
 
 </div>
