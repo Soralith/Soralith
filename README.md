@@ -2,8 +2,6 @@
 
 # Hey there, I'm Sora. 👋
 
-### `💻 Code Architect` `🧠 Tech Explorer` `🏔️ Arch Linux Enthusiast`
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;AI+%26+Automation+Enthusiast;Always+learning%2C+always+coding" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ariqrafifkomaragit@gmail.com)
