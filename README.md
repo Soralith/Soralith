@@ -91,12 +91,6 @@ When I'm not coding, you'll find me strategizing in turn-based games, exploring 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soralith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
-
-</div>
-
-<div align="center">
   <img width="90%" src="https://nirzak-streak-stats.vercel.app/?user=Soralith&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1793D1&currStreakLabel=58A6FF&border_radius=10" alt="GitHub Streak" />
 </div>
 
