@@ -121,7 +121,7 @@ looking_to_collaborate_on:
 
 setup:
   os: "Arch Linux"
-  editor: "Neovim / VSCode"
+  editor: "Neovim / VSCodium"
   shell: "Fish"
   philosophy: "Every bug is a lesson, every project is an adventure."
 ```
