@@ -145,6 +145,4 @@ setup:
 
 ### ✨ *"Keep learning, keep building, and keep having fun while doing it."* ✨
 
-<sub>I use Arch btw 🐧</sub>
-
 </div>
